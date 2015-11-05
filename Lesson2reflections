@@ -1,0 +1,1 @@
+When you initialize a repository, you essentially create a place where git can pull information from files and crate commits. If you want to be able to commit verisons of your files, you need to initialize a git repository. 
